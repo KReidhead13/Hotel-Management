@@ -27,14 +27,14 @@ This C++ program serves as a hotel management system, allowing users to perform 
 
 ### Room Management
 
-- **Check Availability**: View a list of available rooms based on specified criteria such as date range and room type.
+- **Check Availability**: View a list of available rooms based on specified criteria such as date range and room type. This is updated in the atatus.txt file when run.
 - **Assign Room**: Assign a vacant room to a guest.
 - **Mark Room Status**: Update room status as occupied or vacant.
 
 ### Billing
 
 - **Generate Bill**: Calculate charges for a guest's stay including room charges, additional services (if any), and taxes.
-- **Print Bill**: Produce a detailed bill for the guest.
+- **Print Bill**: Produce a detailed bill for the guest. This is appended in the bill.txt file when run.
 
 ### Reporting
 
