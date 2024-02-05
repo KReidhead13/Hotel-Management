@@ -19,13 +19,17 @@ This is a simple hotel management program implemented in C++. It allows users to
 ### Installation
 
 1. Clone the repository
+   
    git clone https://github.com/yourusername/hotel-management.git
    
 2. Navigate to the project directory
+   
   cd hotel-management
 
 3. Compile the source code
+   
    g++ main.cpp -o hotel_management
    
 4. Run the executable:
+   
   ./hotel_management
