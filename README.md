@@ -1,35 +1,49 @@
 # Hotel Management Program
 
-This is a simple hotel management program implemented in C++. It allows users to manage various aspects of a hotel such as room booking, customer information, and billing.
+This C++ program serves as a hotel management system, allowing users to perform various tasks related to hotel management efficiently.
 
 ## Features
 
-- **Room Booking:** Users can check room availability, book rooms, and view existing bookings.
-- **Customer Management:** Customer information such as name, contact details, and booking history can be stored and managed.
-- **Billing:** Generate bills for customers based on their bookings and additional services availed.
-- **Admin Panel:** Admin can access privileged functionalities like adding new rooms, updating room details, and managing staff.
+- **Guest Management**: Add, edit, or remove guest information.
+- **Room Management**: Check room availability, assign rooms to guests, mark rooms as occupied or vacant.
+- **Reservation Management**: Make, modify, or cancel reservations.
+- **Billing**: Generate bills for guests including room charges, additional services, and taxes.
+- **Reporting**: View reports on room occupancy, revenue, and other relevant metrics.
 
-## Getting Started
+## Usage
 
-### Prerequisites
+1. Ensure you have a C++ compiler installed on your system.
+2. Clone this repository to your local machine.
+3. Compile the program using your C++ compiler.
+4. Run the compiled executable.
 
-- C++ compiler (e.g., g++)
-- Any C++ IDE or text editor (e.g., Visual Studio Code, Sublime Text)
+## Functionality
 
-### Installation
+### Guest Management
 
-1. Clone the repository
-   
-   git clone https://github.com/yourusername/hotel-management.git
-   
-2. Navigate to the project directory
-   
-      cd hotel-management
+- **Add Guest**: Enter guest details such as name, contact information, and any preferences.
+- **Edit Guest**: Modify guest information as needed.
+- **Remove Guest**: Delete guest records from the system.
 
-3. Compile the source code
-   
-   g++ main.cpp -o hotel_management
-   
-4. Run the executable:
-   
-      ./hotel_management
+### Room Management
+
+- **Check Availability**: View a list of available rooms based on specified criteria such as date range and room type.
+- **Assign Room**: Assign a vacant room to a guest.
+- **Mark Room Status**: Update room status as occupied or vacant.
+
+### Billing
+
+- **Generate Bill**: Calculate charges for a guest's stay including room charges, additional services (if any), and taxes.
+- **Print Bill**: Produce a detailed bill for the guest.
+
+### Reporting
+
+- **Room Occupancy Report**: View the current occupancy status of all rooms.
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or create a pull request.
+
+## License
+
+This project is licensed under the GNU General Public License - see the [LICENSE](LICENSE) file for details.
