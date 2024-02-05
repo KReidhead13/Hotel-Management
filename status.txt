@@ -1,0 +1,117 @@
+Room Number: 101
+Current Guest Name: N/A
+Days Staying: N/A
+Room Availability: A
+Room Type: Regular
+Number of Beds: 2
+
+Room Number: 102
+Current Guest Name: N/A
+Days Staying: N/A
+Room Availability: A
+Room Type: Regular
+Number of Beds: 2
+
+Room Number: 103
+Current Guest Name: N/A
+Days Staying: N/A
+Room Availability: A
+Room Type: Regular
+Number of Beds: 2
+
+Room Number: 104
+Current Guest Name: N/A
+Days Staying: N/A
+Room Availability: A
+Room Type: Regular
+Number of Beds: 2
+
+Room Number: 105
+Current Guest Name: N/A
+Days Staying: N/A
+Room Availability: A
+Room Type: Regular
+Number of Beds: 2
+
+Room Number: 106
+Current Guest Name: N/A
+Days Staying: N/A
+Room Availability: A
+Room Type: Regular
+Number of Beds: 2
+
+Room Number: 107
+Current Guest Name: N/A
+Days Staying: N/A
+Room Availability: A
+Room Type: Regular
+Number of Beds: 2
+
+Room Number: 108
+Current Guest Name: N/A
+Days Staying: N/A
+Room Availability: A
+Room Type: Regular
+Number of Beds: 2
+
+Room Number: 201
+Current Guest Name: N/A
+Days Staying: N/A
+Room Availability: A
+Room Type: Regular
+Number of Beds: 2
+
+Room Number: 202
+Current Guest Name: N/A
+Days Staying: N/A
+Room Availability: A
+Room Type: Regular
+Number of Beds: 2
+
+Room Number: 203
+Current Guest Name: N/A
+Days Staying: N/A
+Room Availability: A
+Room Type: Regular
+Number of Beds: 2
+
+Room Number: 204
+Current Guest Name: N/A
+Days Staying: N/A
+Room Availability: A
+Room Type: Regular
+Number of Beds: 2
+
+Room Number: 205
+Current Guest Name: N/A
+Days Staying: N/A
+Room Availability: A
+Room Type: Regular
+Number of Beds: 2
+
+Room Number: 206
+Current Guest Name: N/A
+Days Staying: N/A
+Room Availability: A
+Room Type: Regular
+Number of Beds: 2
+
+Room Number: 207
+Current Guest Name: N/A
+Days Staying: N/A
+Room Availability: A
+Room Type: Regular
+Number of Beds: 2
+
+Room Number: 208
+Current Guest Name: Adam
+Age: 19
+Date of Arrival: 2024-02-04
+Date of Departure: 2024-02-08
+Days Staying: 4
+Room Availability: O
+TV Packages: Y
+Room Service: N
+Room Type: VIP
+Number of Beds: 2
+

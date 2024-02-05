@@ -1,0 +1,20 @@
+
+
+--------- Customer Bill ---------
+Customer Name: Adam
+Customer Age: 0
+Date of Arrival: 
+Date of Departure: 2024-02-09
+Number of Days Staying: 5
+Room Type: Regular
+Number of Beds: 2
+Room Rate: $100/night
+TV uprgrade package: $0
+Room service package: $0
+Price before Tax and Discounts: $500
+Company Discount: N
+Age Discount: N
+Spending Discount: N
+Tax Rate: 13%
+Price after Tax and Discounts: $565
+
