@@ -24,7 +24,7 @@ This is a simple hotel management program implemented in C++. It allows users to
    
 2. Navigate to the project directory
    
-  cd hotel-management
+      cd hotel-management
 
 3. Compile the source code
    
@@ -32,4 +32,4 @@ This is a simple hotel management program implemented in C++. It allows users to
    
 4. Run the executable:
    
-  ./hotel_management
+      ./hotel_management
